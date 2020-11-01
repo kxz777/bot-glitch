@@ -1,0 +1,32 @@
+{
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^11.0.0",
+    "moment": "^2.27.0",
+    "enmap": "^5.4.0",
+    "fs": "^0.0.2",
+    "weather-js": "^2.0.0",
+    "mongoose": "^5.9.25",
+    "node-fetch": "^2.6.1",
+    "quick.db": "^7.1.1"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
